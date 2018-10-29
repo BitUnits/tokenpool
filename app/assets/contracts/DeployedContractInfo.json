@@ -1,0 +1,15 @@
+
+{
+  "networks": {
+      "mainnet": {
+              "contracts": {
+                "_bitcoinclassictoken": {"name":"BitcoinClassicToken", "blockchain_address":"0x1be6d61b1103d91f7f86d47e6ca0429259a15ff0"}
+              }
+            },
+      "testnet": {
+              "contracts": {
+                "_bitcoinclassictoken": {"name":"BitcoinClassicToken", "blockchain_address":"0x8b8cc32993e17f9b32325ef964157a507451c9b3"}
+              }
+            }
+    }
+}
